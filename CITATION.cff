@@ -8,6 +8,7 @@ authors:
 version: "working-draft-2026-10-25"
 date-released: 2026-10-25
 url: "https://github.com/joewilsonai/future-pruning"
+doi: 10.5281/zenodo.23637938
 license: CC-BY-4.0
 keywords:
   - future pruning
@@ -29,4 +30,7 @@ preferred-citation:
       given-names: Joe
   year: 2026
   month: 10
+  doi: 10.5281/zenodo.23637938
+  publisher:
+    name: Zenodo
   url: "https://github.com/joewilsonai/future-pruning"

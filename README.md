@@ -4,6 +4,8 @@
 
 **Joe Wilson** · Working draft · 25 October 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23637938.svg)](https://doi.org/10.5281/zenodo.23637938)
+
 📄 **[Read the PDF](Future-Pruning-Wilson-2026.pdf)** · 🔖 [How to cite](#how-to-cite) · License: [CC BY 4.0](LICENSE)
 
 > **Future Pruning** *(n.)*: an agent plants decision points in its own future; when each one comes due, it reopens the current record and chooses again: **do it, change it, or let it go.** The future moment is an occasion to reconsider, not an instruction to act. Term coined by Joe Wilson, 10 October 2026.
@@ -231,6 +233,6 @@ A scheduler runs what is on its list. Judgment decides what no longer belongs th
 
 ## How to cite
 
-Wilson, J. (2026). *Future Pruning: A control layer for proactive personal agents* (Working draft, 25 October 2026). https://github.com/joewilsonai/future-pruning
+Wilson, J. (2026). *Future Pruning: A control layer for proactive personal agents* (Version 1.0) [Working paper]. Zenodo. https://doi.org/10.5281/zenodo.23637938
 
 A machine-readable citation is in [`CITATION.cff`](CITATION.cff).
