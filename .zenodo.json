@@ -1,0 +1,12 @@
+{
+  "title": "Future Pruning: A control layer for proactive personal agents",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "<p>Most assistants are reactive. Giving an assistant a scheduler mostly replaces passivity with literalism: a scheduled task runs because its time arrived, even when the context that made it sensible has changed.</p><p><strong>Future Pruning</strong> is a control layer for a different kind of proactivity. An agent plants decision points in its own future; when each point arrives, it reopens the current record and authority and chooses among three outcomes: do it, change it, or let it go, recording the reason. The future event is not an instruction to act. It is an occasion to reconsider.</p><p>This working paper defines the mechanism, the shape of the future it creates, and the authority and audit rules needed to keep it useful. It reports a 28-moment field sample (9 done, 6 changed, 13 let go) and an exploratory simulation of 346 chains across 16 language models (261 ended by the model's own decision). These results do not establish consciousness, durable identity, or production reliability; they show why cancellation belongs at the center of proactive-agent design. Term coined by the author on 10 October 2026.</p>",
+  "creators": [{"name": "Wilson, Joe"}],
+  "keywords": ["future pruning", "proactive agents", "AI agents", "prospective memory", "intention reconsideration", "agent governance", "personal AI"],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0",
+  "publication_date": "2026-10-25"
+}
