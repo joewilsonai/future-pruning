@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you reference Future Pruning, please cite it as below."
+title: "Future Pruning: A control layer for proactive personal agents"
+type: dataset
+authors:
+  - family-names: Wilson
+    given-names: Joe
+version: "working-draft-2026-10-25"
+date-released: 2026-10-25
+url: "https://github.com/joewilsonai/future-pruning"
+license: CC-BY-4.0
+keywords:
+  - future pruning
+  - proactive agents
+  - AI agents
+  - prospective memory
+  - intention reconsideration
+  - agent governance
+abstract: >-
+  Future Pruning is a control layer for proactive personal agents. An agent plants
+  decision points in its own future; when each arrives, it reopens the current record
+  and authority and chooses to do it, change it, or let it go, recording the reason.
+  The future event is an occasion to reconsider, not an instruction to act.
+preferred-citation:
+  type: report
+  title: "Future Pruning: A control layer for proactive personal agents"
+  authors:
+    - family-names: Wilson
+      given-names: Joe
+  year: 2026
+  month: 10
+  url: "https://github.com/joewilsonai/future-pruning"
